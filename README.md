@@ -1,4 +1,4 @@
-<h2 align="center">About me 🗺️</h2> 
+<h2 align="center">About Me 🗺️</h2> 
 
 ```golang
 package main
@@ -17,10 +17,10 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A girl trying to find her own path in the world",
-		"- 🌱 I’m currently learning":        "Machine Learning & Deep Learning",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 🤩 I'd love to talk about:         "AI, Neuroscience, Cognitive Science, Psychology, Philosophy, Books and Movies!"
+		"- 👩‍💻 Quick bio:":                  "A girl trying to find her own path in the world",
+		"- 🌱 I’m currently learning":      "Machine Learning & Deep Learning",
+		"- ❔ I’m looking for help with":    "Anything related to what I am currently learning 😅",
+		"- 🤩 My favorite subjects are :     "AI, Neuroscience, Cognitive Science, Psychology, Philosophy, Photography, Books and Movies!"
 	}
 }
 ```
