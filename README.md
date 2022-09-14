@@ -34,6 +34,10 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Samin Mahdipour's LinkedIn Profile" height="30" width="30">
   </a>
 
+  <a href="https://www.kaggle.com/precioux">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Samin Mahdipour's Kaggle Profile" height="30" width="30">
+  </a>
+	
   <a href="uni.mahdipour@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Samin Mahdipour's Gmail" height="30" width="30">
   </a>
