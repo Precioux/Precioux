@@ -1,5 +1,4 @@
 # Samin Mahdipour
-<h2 align="center">About Me</h2>
 
 ```golang
 package main
