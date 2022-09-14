@@ -20,7 +20,7 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    "A girl trying to find her own path in the world",
 		"- 🌱 I’m currently learning":        "Machine Learning & Deep Learning",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 📫 I'd love to talk about:         "AI, Neuroscience, Cognitive Science, Psychology, Philosophy, Books and Movies!"
+		"- 🤩 I'd love to talk about:         "AI, Neuroscience, Cognitive Science, Psychology, Philosophy, Books and Movies!"
 	}
 }
 ```
