@@ -47,7 +47,7 @@ func GetBio() Bio {
 ## GitHub Stats
 
 <!--
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>Precioux's Stats</b></summary>
 <br/>
 -->
 <p align="center">
