@@ -53,4 +53,4 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Precioux&show_icons=true&theme=dark" Precioux:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
