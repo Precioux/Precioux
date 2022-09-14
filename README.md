@@ -47,10 +47,6 @@ func GetBio() Bio {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Top langs</h4>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=precioux&langs_count=10&theme=graywhite&layout=compact" alt="precioux :: Top Langs" /></p>
-
-<h4 align="center">Profile stats</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=precioux&show_icons=true&theme=graywhite" alt="precioux :: Profile Stats" /></p>
