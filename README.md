@@ -21,7 +21,7 @@ func GetBio() Bio {
 		"- 🌱 I’m currently learning":      "Machine Learning & Deep Learning",
 		"- ❔ I’m looking for help with":    "Anything related to what I am currently learning 😅",
 		"- 📚 I'm interested in :           "AI, Neuroscience, Cognitive Science,  Psychology, Philosophy,
-		                                    Photography, Books and Movies!"
+		                                     Photography, Books and Movies!"
 	}
 }
 ```
