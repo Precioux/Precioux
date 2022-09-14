@@ -49,8 +49,8 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioux&langs_count=10&theme=dark&layout=compact" alt="Precioux:: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=precioux&langs_count=10&theme=tokyonight&layout=compact" alt="precioux :: Top Langs" /></p>
 
 <h4 align="center">Profile stats</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=precioux&show_icons=true&theme=graywhite" alt="precioux :: Profile Stats" /></p>
