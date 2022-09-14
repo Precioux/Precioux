@@ -31,11 +31,11 @@ func GetBio() Bio {
 <p align="center">
 
   <a href="https://www.linkedin.com/in/samin-mahdipour-8919a6133/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Samin Mahdipour's LinkedIn Profile" height="30" width="30">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Samin Mahdipour's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://www.kaggle.com/precioux">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Samin Mahdipour's Kaggle Profile" height="30" width="30">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" alt="Samin Mahdipour's Kaggle Profile" height="30" width="30">
   </a>
 	
   <a href="mailto: uni.mahdipour@gmail.com">
