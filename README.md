@@ -1,5 +1,3 @@
-# Samin Mahdipour
-
 ```golang
 package main
 
