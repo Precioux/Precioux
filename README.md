@@ -44,7 +44,21 @@ func GetBio() Bio {
   
 </p>
 
+## GitHub Stats
 
+<!--
+<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<br/>
+-->
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=precioux&langs_count=10&theme=graywhite&layout=compact" alt="precioux">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=precioux&show_icons=true&theme=graywhite" alt="precioux">
+	</a>
+	<br/>
+</p>
+<br/>
+<!--
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=precioux&langs_count=10&theme=graywhite&layout=compact" alt="precioux :: Top Langs" /></p>
