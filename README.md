@@ -31,20 +31,24 @@ func GetBio() Bio {
 <p align="center">
 
   <a href="https://www.linkedin.com/in/samin-mahdipour-8919a6133/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Samin Mahdipour's LinkedIn Profile" height="30" width="30">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Samin Mahdipour's LinkedIn Profile" height="30" width="30" style="display:block">
   </a>
 
   <a href="https://www.kaggle.com/precioux">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" alt="Samin Mahdipour's Kaggle Profile" height="30" width="30">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" alt="Samin Mahdipour's Kaggle Profile" height="30" width="30" style="display:block">
   </a>
 	
   <a href="mailto: uni.mahdipour@gmail.com">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Samin Mahdipour's Gmail" height="30" width="30">
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Samin Mahdipour's Gmail" height="30" width="30" style="display:block">
   </a>
   
   <a href="https://open.spotify.com/user/tl4wrztwu3r69mylvmg78ajh8">
-    <img src="https://simpleicons.org/icons/spotify.svg" alt="Precioux's Spotify" height="30" width="30">
+    <img src="https://simpleicons.org/icons/spotify.svg" alt="Precioux's Spotify" height="30" width="30" style="display:block">
   </a>
+	
+  <a href="https://unsplash.com/@precioux">
+   <img src="https://simpleicons.org/icons/unsplash.svg" alt="Precioux's Unsplash" height="30" width="30" style="display:block"> 
+  </a>  
   
 </p>
 
