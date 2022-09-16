@@ -43,7 +43,7 @@ func GetBio() Bio {
   </a>
   
   <a href="https://open.spotify.com/user/tl4wrztwu3r69mylvmg78ajh8">
-    <img src="https://simpleicons.org/icons/spotify.svg">
+    <img src="https://simpleicons.org/icons/spotify.svg" alt="Precioux's Spotify" height="30" width="30">
   </a>
   
 </p>
