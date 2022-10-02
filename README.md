@@ -40,15 +40,7 @@ func GetBio() Bio {
 	
   <a href="mailto: uni.mahdipour@gmail.com">
     <img src="https://simpleicons.org/icons/gmail.svg" alt="Samin Mahdipour's Gmail" height="30" width="30" style="display:block">
-  </a>
-  
-  <a href="https://open.spotify.com/user/tl4wrztwu3r69mylvmg78ajh8">
-    <img src="https://simpleicons.org/icons/spotify.svg" alt="Precioux's Spotify" height="30" width="30" style="display:block">
-  </a>
-	
-  <a href="https://unsplash.com/@precioux">
-   <img src="https://simpleicons.org/icons/unsplash.svg" alt="Precioux's Unsplash" height="30" width="30" style="display:block"> 
-  </a>  
+  </a> 
   
 </p>
 
