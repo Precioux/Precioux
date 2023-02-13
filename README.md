@@ -59,8 +59,4 @@ func GetBio() Bio {
 </p>
 <br/>
 <!--
-<p align=center>
-<br>
-    <img src="https://komarev.com/ghpvc/?username=Precioux&style=for-the-badge&label=PROFILE+VIEWS&color=grey">
-</p>
 
