@@ -18,9 +18,9 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- 👩‍💻 Quick bio:":                  "Trying to find my path in the world!",
-		"- 🌱 I’m currently learning":      "Machine Learning & Deep Learning",
+		"- 🌱 I’m currently learning":      "Deep Learning & NLP",
 		"- ❔ I’m looking for help with":    "Anything related to what I am currently learning 😅",
-		"- 📚 I'm interested in" :           "AI, Neuroscience, Cognitive Science, Psychology, Philosophy,
+		"- 📚 I'm interested in" :          "AI, Neuroscience, Cognitive Science, Psychology & Philosophy,Material Science & Chemistry,
 		                                     Photography, Books and Movies!"
 	}
 }
