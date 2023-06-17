@@ -29,7 +29,7 @@ func GetBio() Bio {
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/samin-mahdipour-8919a6133/">
+  <a href="https://www.linkedin.com/in/samin-mahdipour/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Samin Mahdipour's LinkedIn Profile" height="30" width="30" style="display:block">
   </a>
 
