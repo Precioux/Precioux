@@ -51,7 +51,7 @@ func GetBio() Bio {
 -->
 <p align="center">
 	<a href="https://github.com/Precioux">
-	<img  src="https://github-readme-stats.vercel.app/api?username=precioux&show_icons=true&theme=graywhite" alt="precioux">
+<!-- 	<img  src="https://github-readme-stats.vercel.app/api?username=precioux&show_icons=true&theme=graywhite" alt="precioux"> -->
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=precioux" alt="precioux">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=precioux&langs_count=10&theme=graywhite&layout=compact" alt="precioux">
 	</a>
