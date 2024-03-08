@@ -4,11 +4,11 @@
 class Bio:
     def __init__(self):
         self.data = {
-            "- 🌱 I’m currently learning": "Chatbot Development & NLP",
+            "- 🌱 I’m currently learning":    "Chatbot Development & NLP",
             "- ❔ I’m looking for help with": "Anything related to what I am currently learning 😅",
-            "- 📚 I'm interested in": "AI, Neuroscience, Cognitive Science, "
-                                      "Psychology & Philosophy, Material Science & Chemistry, "
-                                      "Photography, Books and Movies!"
+            "- 📚 I'm interested in":         "AI, Neuroscience, Cognitive Science, "
+                                              "Psychology & Philosophy, Material Science & Chemistry, "
+                                              "Photography, Books and Movies!"
         }
 
 def get_bio():
