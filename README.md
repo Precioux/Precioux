@@ -1,28 +1,25 @@
 <h2 align="center">About Me 🗺️</h2> 
 
-```golang
-package main
+```Python
+class Bio:
+    def __init__(self):
+        self.data = {
+            "- 🌱 I’m currently learning": "Chatbot Development & NLP",
+            "- ❔ I’m looking for help with": "Anything related to what I am currently learning 😅",
+            "- 📚 I'm interested in": "AI, Neuroscience, Cognitive Science, "
+                                      "Psychology & Philosophy, Material Science & Chemistry, "
+                                      "Photography, Books and Movies!"
+        }
 
-import (
-	"fmt"
-)
+def get_bio():
+    return Bio().data
 
-type Bio map[string]string
+if __name__ == "__main__":
+    bio_data = get_bio()
+    
+    print("About Me 🗺️")
+    print("\n".join([f"{k}: {v}" for k, v in bio_data.items()]))
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{            
-		"- 🌱 I’m currently learning":      "Chatbot Development & NLP",
-		"- ❔  I’m looking for help with":    "Anything related to what I am currently learning 😅",
-		"- 📚 I'm interested in " :          "AI, Neuroscience, Cognitive Science, Psychology & Philosophy,
-                                                      Material Science & Chemisty, Photography, Books and Movies!"
-	}
-}
 `````
 <h2 align="center">You can reach me at </h2>
 
