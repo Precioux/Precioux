@@ -33,7 +33,7 @@ if __name__ == "__main__":
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" alt="Samin Mahdipour's Kaggle Profile" height="30" width="30" style="display:block">
   </a>
 	
-  <a href="mailto: uni.mahdipour@gmail.com">
+  <a href="mailto: samin.mahdipour999@gmail.com">
     <img src="https://simpleicons.org/icons/gmail.svg" alt="Samin Mahdipour's Gmail" height="30" width="30" style="display:block">
   </a> 
 
