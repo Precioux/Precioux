@@ -10,6 +10,7 @@ class Bio:
                                               "Natural Language Processing, Generative Models, "
                                               "Philosophy, Psychology!"
         }
+```
 
 def get_bio():
     return Bio().data
