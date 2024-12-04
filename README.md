@@ -10,7 +10,7 @@ class Bio:
                                               "Natural Language Processing, Generative Models, "
                                               "Philosophy, Psychology!"
         }
-```
+
 
 def get_bio():
     return Bio().data
@@ -20,6 +20,7 @@ if __name__ == "__main__":
     
     print("About Me 🗺️")
     print("\n".join([f"{k}: {v}" for k, v in bio_data.items()]))
+```
 <h2 align="center">You can reach me at </h2>
 
 <p align="center">
